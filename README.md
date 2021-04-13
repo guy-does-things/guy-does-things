@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @guy-does-things
 - interested on game development
-- learning C#, c, cpp
+- learning C#, c, c++
 - I’m looking to collaborate on nothing as of now
 - you can dm me on twitter https://twitter.com/guy_does_things
 
